@@ -16,10 +16,10 @@
 <p>&emsp;&emsp; <a href="https://www.linkedin.com/in/murilo-pacheco-037ba316b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "murilo.pacheco99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
 
 <div align="center">
-  <a href="https://github.com/Mr-Pacheco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Pacheco&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Pacheco&layout=compact&langs_count=7&theme=city_lights"/>
+  <a href="https://github.com/murilopacheco98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilopacheco98&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopacheco98&layout=compact&langs_count=7&theme=city_lights"/>
     
-   ![Snake animation](https://github.com/Mr-Pacheco/Mr-Pacheco/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/murilopacheco98/murilopacheco98/blob/output/github-contribution-grid-snake.svg) 
 </div>
    
