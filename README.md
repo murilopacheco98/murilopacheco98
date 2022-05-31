@@ -21,6 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopacheco98&layout=compact&langs_count=7&theme=city_lights"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilopacheco98&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopacheco98"/>
     
    ![Snake animation](https://github.com/murilopacheco98/murilopacheco98/blob/output/github-contribution-grid-snake.svg) 
 </div>
