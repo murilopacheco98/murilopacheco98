@@ -20,8 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilopacheco98&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopacheco98&layout=compact&langs_count=7&theme=city_lights"/>
     
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimurilopacheco98=anuraghazra)]
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilopacheco98&show_icons=true&theme=radical"/)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilopacheco98&show_icons=true&theme=radical"/>
     
    ![Snake animation](https://github.com/murilopacheco98/murilopacheco98/blob/output/github-contribution-grid-snake.svg) 
 </div>
