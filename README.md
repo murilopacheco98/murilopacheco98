@@ -9,9 +9,9 @@
 <p>-👔 Experiências Professionais:</p>
   <p>&emsp;&emsp;* Em breve</p>
 <p>-🥇 Tecnologias favoritas:</p>
-  <p>&emsp;&emsp;* Python 🐍</p>
+  <p>&emsp;&emsp;* React </p>
 <p>-📖 O que estou estudando atualmente:</p>
-  <p>&emsp;&emsp;* Desenvolvimento de aplicações Web: HTML, CSS, Javascript</p>
+  <p>&emsp;&emsp;* Desenvolvimento de aplicações Web: HTML, CSS, Javascript, Java</p>
 <p>-🌎 Minhas redes sociais:</p>
 <p>&emsp;&emsp; <a href="https://www.linkedin.com/in/murilo-pacheco-037ba316b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "murilo.pacheco99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
 
