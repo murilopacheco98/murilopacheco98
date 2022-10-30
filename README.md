@@ -4,8 +4,8 @@
 <p>- 🏋️‍♂️ Hobbies:</p>
   <p>&emsp;&emsp;* No meu dia-a-dia gosto de assistir filmes e séries, ir na academia, assistir vídeos variados desde de comida até programação e sair com amigos. </p>
 <p>- 📕 Formação:</p>
-  <p>&emsp;&emsp;* Participante da 7º Edição do Programa Starter Full Stack Web Developer na Growdev</p>
-  <p>&emsp;&emsp;* Terminando o Curso de Engenharia Mecânica na UFGD</p>
+  <p>&emsp;&emsp;* Participante da 7º Edição do Programa Starter Full Stack Web Developer na Growdev.</p>
+  <p>&emsp;&emsp;* Terminando o Curso de Engenharia Mecânica na UFGD.</p>
 <p>-👔 Experiências Professionais:</p>
   <p>&emsp;&emsp;* Em breve</p>
 <p>-🥇 Tecnologias favoritas:</p>
