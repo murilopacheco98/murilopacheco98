@@ -9,7 +9,7 @@
 <p>-👔 Experiências Professionais:</p>
   <p>&emsp;&emsp;* Em breve</p>
 <p>-🥇 Tecnologias favoritas:</p>
-  <p>&emsp;&emsp;* React </p>
+  <p>&emsp;&emsp;* Javascript e Java</p>
 <p>-📖 O que estou estudando atualmente:</p>
   <p>&emsp;&emsp;* Desenvolvimento de aplicações Web: HTML, CSS, Javascript, Java</p>
 <p>-🌎 Minhas redes sociais:</p>
