@@ -7,7 +7,7 @@
   <p>&emsp;&emsp;* Participante da 7º Edição do Programa Starter Full Stack Web Developer na Growdev.</p>
   <p>&emsp;&emsp;* Terminando o Curso de Engenharia Mecânica na UFGD.</p>
 <p>-🥇 Tecnologias favoritas:</p>
-  <div style="display: inline_block, justify: center"><br>
+  <div style="display: flex, justify: center"><br>
 
   <img align="center" alt="Juliao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juliao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
