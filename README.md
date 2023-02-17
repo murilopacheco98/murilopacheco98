@@ -6,12 +6,8 @@
 <p>- 📕 Formação:</p>
   <p>&emsp;&emsp;* Participante da 7º Edição do Programa Starter Full Stack Web Developer na Growdev.</p>
   <p>&emsp;&emsp;* Terminando o Curso de Engenharia Mecânica na UFGD.</p>
-<p>-👔 Experiências Professionais:</p>
-  <p>&emsp;&emsp;* Em breve</p>
 <p>-🥇 Tecnologias favoritas:</p>
   <p>&emsp;&emsp;* Javascript e Java</p>
-<p>-📖 O que estou estudando atualmente:</p>
-  <p>&emsp;&emsp;* Desenvolvimento de aplicações Web: HTML, CSS, Javascript, Java</p>
 <p>-🌎 Minhas redes sociais:</p>
 <p>&emsp;&emsp; <a href="https://www.linkedin.com/in/murilo-pacheco-037ba316b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "murilo.pacheco99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
 
