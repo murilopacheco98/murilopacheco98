@@ -6,6 +6,7 @@
 <p>- 📕 Formação:</p>
   <p>&emsp;&emsp;* Participante da 7º Edição do Programa Starter Full Stack Web Developer na Growdev.</p>
   <p>&emsp;&emsp;* Terminando o Curso de Engenharia Mecânica na UFGD.</p>
+  <p>&emsp;&emsp;* Cursando análise e desenvolvimento de sistemas.</p>
 <p>-🥇 Tecnologias favoritas:</p>
 <p align="center">
   <img align="center" alt="Juliao-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
